@@ -1,3 +1,1 @@
-Hi There! 👋<br>
-My name is Sebastian<br>
-(Java | HTML | CSS | React JS | Angular | Typescript<br>Javascript | PhP | Node.js | Python | SQL | C++ | .NET | Android ) 🚀<br>
+Modelagem financeira e análise de dados para o mercado financeiro com Python, C, e SQL. Desenvolvimento de ferramentas quantitativas, automação de processos e integração via APIs.
