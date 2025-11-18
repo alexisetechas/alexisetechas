@@ -2,4 +2,4 @@ Financial modeling and data analysis for the financial market with Python, C, an
 
 Developing quantitative tools, process automation, and API integration.
 
-![math](./image(1).png)
+![math](./image (1).png)
